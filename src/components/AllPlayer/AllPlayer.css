@@ -1,0 +1,31 @@
+.all-player-container-image img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #00cf5d;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.all-player-container{
+    display: flex;
+    margin-left: 20rem;
+    border: 1px solid lightgray;
+    padding: 1.5rem;
+    margin-top: 20px;
+}
+
+.all-player-info{
+    margin-left: 2.5rem;
+}
+
+button{
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 15px 25px;
+    border-radius: 4px;
+    background-color: #00cf5d;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+}

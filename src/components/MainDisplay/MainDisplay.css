@@ -1,0 +1,11 @@
+.player-container{
+    display: flex;
+}
+
+.player-info{
+    width: 70%;
+}
+
+.my-team-container{
+    margin-left: 3rem;
+}

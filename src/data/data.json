@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "salary": 400000,
+    "team": "Bangladesh",
+    "gender": "Male",
+    "image": "https://imgk.timesnownews.com/story/Shakib_al_hasan_IANS.png?tr=w-1200,h-900"
+  }, {
+    "id": 2,
+    "name": "Kane Williumson",
+    "salary": 450000,
+    "team": "New Zealand",
+    "gender": "Male",
+    "image": "https://static.toiimg.com/thumb/msid-81404035,width-1070,height-580,imgsize-78029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+  }, {
+    "id": 3,
+    "name": "Mashrafi Bin Mortaza",
+    "salary": 350000,
+    "team": "Bangladesh",
+    "gender": "Male",
+    "image": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  }, {
+    "id": 4,
+    "name": "Ab de Villiars",
+    "salary": 500000,
+    "team": "South Africa",
+    "gender": "Male",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/273100/273173.6.jpg"
+  }, {
+    "id": 5,
+    "name": "Moeen Ali",
+    "salary": 400000,
+    "team": "England",
+    "gender": "Male",
+    "image": "https://i.guim.co.uk/img/media/5c27396758ffa788f3a4c89be40e8dda81ac8c29/282_515_2936_1762/master/2936.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=4b282c0983ffa28fbb25e198e49631f0"
+  }, {
+    "id": 6,
+    "name": "Rohit Sharma",
+    "salary": 450000,
+    "team": "India",
+    "gender": "Male",
+    "image": "https://economictimes.indiatimes.com/thumb/msid-70119616,width-1200,height-900,resizemode-4,imgsize-160034/rohit-sharma-the-odi-cricket-phenomenon.jpg?from=mdr"
+  }, {
+    "id": 7,
+    "name": "Virat Kohli",
+    "salary": 550000,
+    "team": "India",
+    "gender": "Male",
+    "image": "https://i.pinimg.com/originals/a3/fb/5d/a3fb5def518705c9cc739299234c2779.jpg"
+  }, {
+    "id": 8,
+    "name": "Mostafiz ur Rahman",
+    "salary": 400000,
+    "team": "Bangladesh",
+    "gender": "Male",
+    "image": "https://cdn.insidesport.co/wp-content/uploads/2021/03/26095645/1-2020-07-17T120354-3.jpg"
+  }, {
+    "id": 9,
+    "name": "Tamim Iqbal",
+    "salary": 350000,
+    "team": "Bangladesh",
+    "gender": "Male",
+    "image": "https://static.toiimg.com/thumb/msid-81570058,width-1200,height-900,resizemode-4/.jpg"
+  }, {
+    "id": 10,
+    "name": "Mushfiq ur Rahim",
+    "salary": 350000,
+    "team": "Bangladesh",
+    "gender": "Male",
+    "image": "https://e0.365dm.com/21/05/2048x1152/skysports-mushfiqur-rahim-bangladesh_5394923.jpg"
+  }, {
+    "id": 11,
+    "name": "Hashim Amla",
+    "salary": 400000,
+    "team": "South Africa",
+    "gender": "Male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hashim_Amla.jpg"
+  }, {
+    "id": 12,
+    "name": "Trent Boult",
+    "salary": 400000,
+    "team": "New Zealand",
+    "gender": "Male",
+    "image": "https://www.cricket.com.au/~/-/media/News/2017/12/28trentboult.ashx?w=1600"
+  }, {
+    "id": 13,
+    "name": "Gyle",
+    "salary": 550000,
+    "team": "West Indies",
+    "gender": "Male",
+    "image": "https://sportzwiki.com/wp-content/uploads/2021/02/chris-gayle-plans-retirement-after-home-series-against-india-in-august.jpg"
+  }, {
+    "id": 14,
+    "name": "Babar Azim",
+    "salary": 400000,
+    "team": "Pakistan",
+    "gender": "Male",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/319000/319025.6.jpg"
+  }, {
+    "id": 15,
+    "name": "Jasprit Bumrah",
+    "salary": 400000,
+    "team": "India",
+    "gender": "Male",
+    "image": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/09/30/Pictures/indian-team-practice-session_1864508e-e399-11e9-a8aa-54897fdfe8ad.jpg"
+  }]
