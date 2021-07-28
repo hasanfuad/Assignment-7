@@ -13,7 +13,7 @@ const MyTeam = (props) => {
                 <h5>Added Player Name</h5>
                 {myTeam.map(data=><ul><li>{data.name}</li></ul>)}
             </div>
-            <p>Total Transfer Cost: <span>{total}</span>$</p>
+            <p>Total Transfer Cost <span>{total}</span>$</p>
         </div>
     );
 };
